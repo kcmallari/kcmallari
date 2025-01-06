@@ -2,7 +2,7 @@
 
 I'm a zestful full stack developer with a passion for peeling away complex problems layer by layer. Whether it’s frontend, backend, or somewhere in between, I code with juice and enthusiasm!
 
-## 🍊 What Keeps Me Rolling (And Paid)
+## 🍊 What Keeps Me Rolling
 - Freelance Full Stack Developer 🍊💻
 - Occasional debugger of "Why isn’t this working?" moments
 
